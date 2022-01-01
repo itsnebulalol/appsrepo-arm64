@@ -1,0 +1,18 @@
+Origin: Apps Repo (arm64)
+Label: Apps Repo (arm64)
+Suite: stable
+Version: 1.0
+Codename: appsrepo-arm64
+Architectures: arm64
+Components: main
+Description: Apps Repo (arm64)
+MD5Sum:
+ 2c6d28ca6a4f1c1bbb4cd9e4185966b1 858 Packages
+ 5fd7dd65dc9feb41b7d32d35e495836a 561 Packages.bz2
+ 1d578248705d98c41f503864c68d755d 510 Packages.gz
+ 9792cca9e0646dfbd9e6cfedfa41ab82 497 Packages.zst
+SHA256:
+ 76fb9bca7b343ec53f4549fe50d023d166f83f83f3f6eb9f5a77863abb15b969 858 Packages
+ f804be5b5aafadd3493d957fe06087a09bb62206a04a12825c9a9ef2d25cb9ce 561 Packages.bz2
+ eb94b78b869e8b7f56e7f55b9b76e24bf9ec8638d627a63a8c2baa91f2cf551d 510 Packages.gz
+ 6c32182c6a7bd88da335987a3dd0bee07f400a1df9ef83a7a74f66771ab9a2fe 497 Packages.zst

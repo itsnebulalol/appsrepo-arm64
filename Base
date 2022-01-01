@@ -1,0 +1,8 @@
+Origin: Apps Repo (arm64)
+Label: Apps Repo (arm64)
+Suite: stable
+Version: 1.0
+Codename: appsrepo-arm64
+Architectures: arm64
+Components: main
+Description: Apps Repo (arm64)

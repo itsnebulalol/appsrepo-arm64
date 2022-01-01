@@ -1,0 +1,28 @@
+Package: app.chrome
+Version: 1latest
+Architecture: arm64
+Maintainer: Google
+Filename: debs/chrome.deb
+Size: 1048
+MD5sum: 05df63e69b12588af1c557ad29de542d
+SHA1: e28b9156eb81c3c523ce7a2d2efb29ff868988a7
+SHA256: 844851e882c17a136cdb23957e1265cbe529e71c173f4bff4042c8145c03df08
+Section: Productivity
+Description: Google Chrome is a cross-platform web browser developed by Google.
+Author: Google
+Name: Google Chrome
+
+Package: app.vscode
+Version: 1latest
+Architecture: arm64
+Maintainer: Microsoft
+Filename: debs/vscode.deb
+Size: 1048
+MD5sum: 62ac894b98843803a1b0a5b6ee2697e5
+SHA1: db6f8d63ccee206ed0b259d7d07cbfdce56c7997
+SHA256: 605c3874a4adc8c0a1e73dc5391d9d86af4b440f5aa35c10343080b079b88f42
+Section: Development
+Description: Visual Studio Code is a source-code editor made by Microsoft for Windows, Linux and macOS.
+Author: Microsoft
+Name: Visual Studio Code
+
